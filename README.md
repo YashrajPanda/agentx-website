@@ -1,6 +1,6 @@
 # AGENTX - Global Intelligence & Automation
 
-![AGENTX Live Preview](public/images/civic-nodes/ezgif-frame-001.jpg)
+![AGENTX Live Preview](public/images/civic-nodes/ezgif-frame-176.jpg)
 
 **Live Demo:** [https://zippy-melba-138f69.netlify.app/](https://phenomenal-pastelito-1916e9.netlify.app/)
 
