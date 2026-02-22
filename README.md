@@ -2,7 +2,7 @@
 
 ![AGENTX Live Preview](public/images/civic-nodes/ezgif-frame-176.jpg)
 
-**Live Demo:** [https://zippy-melba-138f69.netlify.app/](https://phenomenal-pastelito-1916e9.netlify.app/)
+**Live Demo:** [https://zippy-melba-138f69.netlify.app/](https://agentx88.netlify.app/) 
 
 AGENTX is a highly premium, modern, "Scrollytelling" corporate website built for a visionary AI startup. The platform highlights high-impact small projects powered by **Machine Learning**, **Agentic AI**, and **Generative AI**. It features a founders spotlight for Yashraj Panda & Ritam Patra.
 
